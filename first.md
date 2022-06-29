@@ -39,8 +39,8 @@ let myname = "yjpotato"
 ###**논리연산자(Boolean Logic)**
 Swift는 다음 세 가지 논리 연산자를 지원한다.
 
-- 논리 부정 NOT (!a)
-- 논리 곱 AND (a && b)
+* 논리 부정 NOT (!a)
++ 논리 곱 AND (a && b)
 - 논리 합 OR (a || b)
 #
 논리 부정 NOT(!a)은 `True`를 `False`로 반환하고, `False`를 `True`로 반환한다.
